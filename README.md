@@ -1,5 +1,7 @@
 # Ermes Hidrolik
 
+🌐 **Siteyi görüntüle / View the site:** https://kubilay1876.github.io/ErmesHydraulic/
+
 **🇹🇷 Türkçe**
 
 Ermes Hidrolik Pnömatik için hazırlanmış tek sayfalık tanıtım sitesi.
